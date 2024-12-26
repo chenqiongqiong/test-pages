@@ -1,5 +1,9 @@
-12
-4
-4
+function log() {}
 
-ff
+log(1)
+
+log(2)
+
+export {
+    log,
+}
